@@ -1,2 +1,2 @@
-# quadruped
-Hardware and software for a quadruped robot, capable of autonomous motion
+# hexapod
+Hardware and software for a hexapod robot, capable of autonomous motion
